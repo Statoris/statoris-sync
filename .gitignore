@@ -1,0 +1,19 @@
+# Python & PyInstaller build artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+build/
+dist/
+
+# Reference installers & local compiled binaries (published via GitHub Releases)
+allwaysync-*.exe
+GoodSync-*.exe
+GoodSync-*.msi
+Statoris_Sync.exe
+
+# Local runtime state & logs
+sync_state.json
+sync_jobs.json
+app_settings.json
+*.log
+*.tmp
