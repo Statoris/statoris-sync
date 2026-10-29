@@ -1,6 +1,6 @@
 # Statoris Sync — Precision Local & Remote Synchronization Engine
 
-Aplicación nativa para Windows diseñada con la identidad corporativa **Statoris (Executive Light & Dark Titanium)** e inspirada en la usabilidad visual de **GoodSync** y **Allway Sync**.
+Aplicación corporativa nativa para Windows desarrollada bajo el sistema de diseño **Statoris (Executive Light & Dark Titanium)** para la sincronización inteligente de archivos y directorios locales y remotos.
 
 ---
 

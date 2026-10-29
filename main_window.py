@@ -1,6 +1,6 @@
 """
 main_window.py - Statoris Sync Desktop Application for Windows.
-Combines the intuitive multi-directory side-by-side workflow of GoodSync & Allway Sync
+Provides an intuitive multi-directory side-by-side synchronization workflow
 with the official Statoris Executive Light & Dark Titanium Design System.
 
 Key Capabilities:
@@ -332,7 +332,7 @@ class StatorisSyncApp(ctk.CTk):
         self.body_frame = ctk.CTkFrame(self, fg_color="transparent")
         self.body_frame.pack(fill="both", expand=True, padx=12, pady=(10, 6))
 
-        # 1. Left Sidebar (Jobs List like GoodSync / Allway Sync)
+        # 1. Left Sidebar (Synchronization Jobs List)
         self.sidebar = ctk.CTkFrame(
             self.body_frame,
             width=265,
@@ -425,7 +425,7 @@ class StatorisSyncApp(ctk.CTk):
         self._build_workspace_tabs()
 
     def _build_job_toolbar(self):
-        """GoodSync / Allway Sync top control bar with Analyze, Synchronize, Direction & Sync Mode."""
+        """Top control bar with Analyze, Synchronize, Direction & Sync Mode."""
         self.toolbar_card = ctk.CTkFrame(
             self.workspace,
             corner_radius=10,
@@ -628,7 +628,7 @@ class StatorisSyncApp(ctk.CTk):
         )
         self.pairs_scroll.pack(fill="x", padx=8, pady=(0, 8))
 
-        # Lower Panel: GoodSync / Allway Sync File Comparison Table
+        # Lower Panel: Side-by-Side File Comparison Table
         comp_card = ctk.CTkFrame(
             self.tab_pairs,
             corner_radius=8,

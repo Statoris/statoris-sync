@@ -35,7 +35,7 @@ TRANSLATIONS = {
         "mode_differential": "Diferencial (Desde última Completa)",
         "sw_realtime_quick": "Sincronización Activa (Tiempo Real)",
         # Tabs
-        "tab_pairs": "📁 Directorios y Comparación (Vista GoodSync)",
+        "tab_pairs": "📁 Directorios y Comparación de Archivos",
         "tab_automation": "⏱ Sincronización Activa y Programación",
         "tab_options": "⚙ Reglas, Filtros y Sistema",
         "tab_console": "🖥 Consola y Registro deActividad",
@@ -50,7 +50,7 @@ TRANSLATIONS = {
         "btn_test_conn": "🔌 Probar",
         "btn_remove_pair": "✕ Quitar",
         # Comparison tree
-        "comp_header": "VISTA PREVIA Y COMPARACIÓN DE ARCHIVOS (ESTILO GOODSYNC / ALLWAY SYNC)",
+        "comp_header": "VISTA PREVIA Y TABLA COMPARATIVA DE ARCHIVOS",
         "filter_all": "Todos",
         "filter_pending": "Pendientes de Sincronizar",
         "filter_conflicts": "Conflictos",
@@ -161,7 +161,7 @@ TRANSLATIONS = {
         "mode_differential": "Differential (Since last Full)",
         "sw_realtime_quick": "Active Sync (Real-Time)",
         # Tabs
-        "tab_pairs": "📁 Folder Pairs & Comparison (GoodSync View)",
+        "tab_pairs": "📁 Folder Pairs & File Comparison",
         "tab_automation": "⏱ Active Sync & Scheduling",
         "tab_options": "⚙ Rules, Filters & System",
         "tab_console": "🖥 Console & Activity Log",
@@ -176,7 +176,7 @@ TRANSLATIONS = {
         "btn_test_conn": "🔌 Test",
         "btn_remove_pair": "✕ Remove",
         # Comparison tree
-        "comp_header": "FILE PREVIEW & COMPARISON TABLE (GOODSYNC / ALLWAY SYNC STYLE)",
+        "comp_header": "FILE PREVIEW & COMPARISON TABLE",
         "filter_all": "All",
         "filter_pending": "Pending Sync",
         "filter_conflicts": "Conflicts",

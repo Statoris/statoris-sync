@@ -5,11 +5,9 @@ __pycache__/
 build/
 dist/
 
-# Reference installers & local compiled binaries (published via GitHub Releases)
-allwaysync-*.exe
-GoodSync-*.exe
-GoodSync-*.msi
-Statoris_Sync.exe
+# Local binaries & installers (published via GitHub Releases)
+*.exe
+*.msi
 
 # Local runtime state & logs
 sync_state.json

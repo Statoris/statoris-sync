@@ -1,6 +1,6 @@
 """
 remote_dialog.py - Interactive Endpoint Configuration & Remote Folder Browser Dialog.
-Inspired by GoodSync / Allway Sync Endpoint Browser, styled with Statoris Corporate Identity.
+Styled with the official Statoris Corporate Identity.
 Allows any user to easily configure Local, SSH/SFTP, SCP, or FTP/FTPS endpoints,
 configure SSH Private Keys (.ppk, .pem, id_rsa, id_ed25519) and their Passphrase,
 test connection, and visually browse remote directories.
